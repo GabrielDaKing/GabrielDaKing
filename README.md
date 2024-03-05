@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Gabriel Francis, and I am a Engineer interested in all things programming ranging from Robotics to Web Development to Gaming and all things in between. 
+
+This repository is to act as a portfolio of all my past and ongoing projects.
+
 <!--
 **GabrielDaKing/GabrielDaKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
